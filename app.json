@@ -1,14 +1,14 @@
 {
-    "name": "Xtroid",
+    "name": "I-king",
     "description": "Coded By Lasiya",
-    "logo": "https://telegra.ph/file/2bb85d7b80b9ad96bcb96.jpg",
+    "logo": "https://telegra.ph/file/BotSanali.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "https://github.com/1XusernameX1/lizy",
     "website":   "lasiya.ml",
     "success_url": "https://t.me/danumabots",
     "stack": "container",
     "env": {
-        "A_XTROID_SESSION": {
+        "A_I-king_SESSION": {
             "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
@@ -86,7 +86,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Xtroid bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
+            "description": "I-king bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
             "required": true,
             "value": "public"
         },
